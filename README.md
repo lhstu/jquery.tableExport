@@ -32,6 +32,7 @@ Options
 =======
 
 	separator: ','
+	lineBreak: '\n'
 	ignoreColumn: [2,3]
 	fileName:'fileName.csv'
 	type:'csv'
